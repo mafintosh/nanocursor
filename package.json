@@ -1,0 +1,18 @@
+{
+  "name": "nanocursor",
+  "version": "0.0.0",
+  "description": "Small cursor abstraction",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/nanocursor.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/nanocursor/issues"
+  },
+  "homepage": "https://github.com/mafintosh/nanocursor"
+}
