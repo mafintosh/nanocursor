@@ -46,7 +46,7 @@ Only one `_prev`, `_next`, or `_seek` call will be active at the time.
 
 Get the next cursor item.
 
-#### `cursor._next(callback)`
+#### `cursor._next(position, callback)`
 
 Override this method to add next logic.
 Only one `_prev`, `_next`, or `_seek` call will be active at the time.
@@ -55,7 +55,7 @@ Only one `_prev`, `_next`, or `_seek` call will be active at the time.
 
 Get the prev cursor item.
 
-#### `cursor._prev(callback)`
+#### `cursor._prev(position, callback)`
 
 Override this method to add prev logic.
 Only one `_prev`, `_next`, or `_seek` call will be active at the time.
