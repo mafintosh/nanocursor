@@ -1,6 +1,6 @@
 {
   "name": "nanocursor",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Small cursor abstraction",
   "main": "index.js",
   "dependencies": {},
